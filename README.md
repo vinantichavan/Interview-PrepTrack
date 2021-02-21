@@ -48,6 +48,7 @@ The website is primarily based on NodeJs and MongoDB
 * HTML,css
 * Javascript
 * jsonwebtokens,bcrypt - for authentication.
+* adminbro - for admin panel
 
 ### Screenshots
 
