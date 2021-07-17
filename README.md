@@ -26,7 +26,7 @@
       </ul>
     </li>
     <li><a href="#screenshots">Screenshots</a></li>
-    <li><a href="#screenshots">Screenshots</a></li>
+    <li><a href="#setup">Setup</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -60,6 +60,8 @@ The website is primarily based on NodeJs and MongoDB
 <img src=images/experiences.jpg>
 
 ### Setup 
+Run the following commands locally: npm install, nodemon app <br/>
+
 
 ### Contact
 
