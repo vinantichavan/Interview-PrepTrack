@@ -25,7 +25,8 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#screenshost">Screenshots</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -58,12 +59,12 @@ The website is primarily based on NodeJs and MongoDB
 <img src=images/companies.jpg >
 <img src=images/experiences.jpg>
 
-<!-- CONTACT -->
+### Setup 
+
 ### Contact
 
 * Anuraag Mahajan 
 * Email -  manuraag@iitg.ac.in
-* Project Link: [https://github.com/anuraagm19/Interview-PrepTrack](https://github.com/anuraagm19/Interview-PrepTrack)
 
 
 
