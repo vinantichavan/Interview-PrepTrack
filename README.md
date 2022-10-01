@@ -65,9 +65,8 @@ Run the following commands locally: npm install, nodemon app <br/>
 
 ### Contact
 
-* Anuraag Mahajan 
-* Email -  manuraag@iitg.ac.in
-
+* Vinanti Chavan
+* Email - vchavan@iitg.ac.in
 
 
 
